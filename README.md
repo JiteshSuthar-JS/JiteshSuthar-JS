@@ -44,8 +44,8 @@
 <h2 align="left">📈 My GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" width="47%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&border_radius=15" width="47%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JiteshSuthar-JS&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" width="47%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiteshSuthar-JS&theme=tokyonight&hide_border=true&border_radius=15" width="47%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
